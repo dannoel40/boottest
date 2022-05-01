@@ -12,8 +12,7 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll and Hyde.
 
-## Setup Guide
-
+	<a class="btn btn-primary btn-lg" href="" role="button">Kaggle Placeholder</a> 
 
 	<a class="btn btn-primary btn-lg" href="http://www.6noels.com/DataScience.html" role="button">Data Science - Important Links</a> 		
 	<a class="btn btn-primary btn-lg" href="https://sps.northwestern.edu/masters/data-science/program-courses.php" role="button">MSDS Classess</a> 	
@@ -28,6 +27,7 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 
  	<a class="btn btn-primary btn-lg" href="" role="button">Kaggle Placeholder</a> 
 
+	<a class="btn btn-primary btn-lg" href="http://www.6noels.com/DataScience.html" role="button">Data Science - Important Links</a> 	
 
 
 
