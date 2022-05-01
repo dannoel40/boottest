@@ -10,9 +10,26 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
 * Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
 * Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+* Supports all features of Github Pages and Jekyll and Hyde.
 
 ## Setup Guide
+
+
+	<a class="btn btn-primary btn-lg" href="http://www.6noels.com/DataScience.html" role="button">Data Science - Important Links</a> 		
+	<a class="btn btn-primary btn-lg" href="https://sps.northwestern.edu/masters/data-science/program-courses.php" role="button">MSDS Classess</a> 	
+	<a class="btn btn-primary btn-lg" href="https://canvas.northwestern.edu/courses/166488" role="button">Canvas 422</a> 
+	<a class="btn btn-primary btn-lg" href="https://canvas.northwestern.edu/courses/166456" role="button">Canvas 460</a> 
+
+	<a class="btn btn-primary btn-lg" href="MSDS422.html" role="button">422 Links</a> 
+	<a class="btn btn-primary btn-lg" href="MSDS460.html" role="button">460 Links</a> 
+  <a class="btn btn-primary btn-lg" href="MSDSALL.html" role="button">ALL Links</a> 
+
+ 	<a class="btn btn-primary btn-lg" href="https://www.kaggle.com/c/titanic" role="button">Kaggle Titantic</a> 
+
+ 	<a class="btn btn-primary btn-lg" href="" role="button">Kaggle Placeholder</a> 
+
+
+
 
 ### Create a repository from this template
 
